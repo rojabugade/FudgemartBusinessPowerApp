@@ -1,8 +1,6 @@
 # FudgemartBusinessPowerApp
 This repository serves as the core platform for the Fudgemart Business Power App, a comprehensive solution tailored for business operations. It contains meticulously organized source code, configurations, and detailed documentation essential for the development, customization, and maintenance of the Fudgemart Business Power App.
 
-https://make.powerapps.com/environments/Default-4278a402-1a9e-4eb9-8414-ffb55a5fcf1e/apps/dd84e660-7d3d-4ffc-887a-6fa28ed0eeeb/export
-
 Owner: Roja Bugade
 Created: 3/25/2024, 5:54:39 PM
 
